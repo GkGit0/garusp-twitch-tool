@@ -62,7 +62,7 @@ headers = {
 
 st.set_page_config(page_title="GaruSp", layout="wide")
 
-st.title("GaruSp - Influencer Scraper")
+st.title("高円寺URLトラップハウス")
 
 st.write("Twitch / YouTube URLを貼り付け（改行・空白・カンマOK）")
 
